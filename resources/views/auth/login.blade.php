@@ -105,7 +105,7 @@
 
                             <div class="text-center mt-5 text-muted small">
                                 &copy; {{ date('Y') }}.<br>
-                                Dikembangkan oleh Rafid Denovan.
+                                Dikembangkan oleh Rafid Reza Abrilian.
                             </div>
                             
                         </div>
