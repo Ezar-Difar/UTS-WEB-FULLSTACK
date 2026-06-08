@@ -1,5 +1,5 @@
-/* user:admin@edusync.com */
-/* Password:rahasia123 */
+# user:admin@edusync.com
+# Password:rahasia123
 
 <!DOCTYPE html>
 <html lang="id">
